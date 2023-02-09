@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">LabDam2022</string>
+    <string name="app_name">Alojamientos</string>
     <string name="resultado_busqueda">Resultado busqueda fragment</string>
     <string name="form_busqueda">FORMULARIO busqueda fragment</string>
     <string name="detalle_alojamiento">DETALLE alojamiento fragment</string>
+
+    <string name="menu_buscar">B\u00fasqueda</string>
+    <string name="menu_reservas">Reservas</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="menu_configuracion">Configuraci\u00f3n</string>
 </resources>

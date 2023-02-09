@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_buscar"
+        android:icon="@drawable/search_black_24dp"
+        android:title="@string/menu_buscar"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_reservas"
+        android:icon="@drawable/bookmarks_black_24dp"
+        android:orderInCategory="2"
+        android:title="@string/menu_reservas"/>
+    <item
+        android:id="@+id/action_favoritas"
+        android:icon="@drawable/star_black_24dp"
+        android:orderInCategory="3"
+        android:title="@string/menu_favoritos"/>
+    <item
+        android:id="@+id/action_configuracion"
+        android:icon="@drawable/settings_black_24dp"
+        android:orderInCategory="4"
+        android:title="@string/menu_configuracion"/>
+</menu>
